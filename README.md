@@ -266,5 +266,5 @@ isTruthy(x) // check -> isNaN(x)
 ## Conclusion
 In this article, you should have learned what are design patterns and what are anti-patterns, and you learned 6 different examples of anti-patterns/bad practices to avoid in your next JavaScript project
 
-> Note that we can’t point out all of the anti-patterns of JS here because it’s really based on you and how bad and an un-researching guy you are. You’ll have anti-patterns increasing in your codebase if you’re not researching well enough. 😊
+> Note that we can’t point out all of the anti-patterns of JS here because it’s really based on you and how bad and an un-researching guy you are. You’ll have anti-patterns increasing in your codebase if you’re not researching well enough.😊
 
